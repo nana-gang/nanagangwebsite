@@ -1,6 +1,24 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: black;
+
+}
+
 .icon-nana {
     display: flex;
-    justify-content: center;
+    align-content: center;
+}
+.center-content {
+
+    text-align: center;
+    font-size: 6em;
+
+
+
 }
 
 .icon-nana > p {
@@ -28,34 +46,7 @@ h1 {
     margin-right: 95px;
 }
 
-.icon-nana-side-right {
-    position: relative;
-    bottom: 50px; 
-    margin-right: 800px;
-}
-body {
-    height: 100%;
-    background-color: black;
-}
-.center-content {
-    height: 100%;
-    text-align: center;
-    /* margin-top: 0%; 
-    margin-bottom: 0%; 
-    margin-left: 0%; 
-    margin-right: 0%;  */
-
-    font-size: 6em;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-}
 
 
-html {
-    height: 100%;
-}
 
-body {
-    height: 100%;
-}
+

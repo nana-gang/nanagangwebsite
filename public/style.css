@@ -1,0 +1,6 @@
+.nana {
+    
+}
+.nana + span {
+    transform: rotate(90deg);
+}

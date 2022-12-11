@@ -44,3 +44,10 @@ h1 {
     margin-left: 95px;
     margin-right: 95px;
 }
+
+.audio {
+    position: relative;
+    bottom: 200px;
+    display: flex;
+    justify-content: center;
+}
